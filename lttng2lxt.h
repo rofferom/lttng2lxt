@@ -51,7 +51,7 @@ enum {
 #define LT_1                      "1"
 #define LT_0                      "0"
 
-#define MAX_CPU                   (4)
+#define MAX_CPU                   (6)
 #define MAX_IRQS                  (1024)
 
 #define PROCESS_IDLE              LT_IDLE
